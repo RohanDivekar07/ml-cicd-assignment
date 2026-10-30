@@ -1,0 +1,6 @@
+__pycache__/
+artifacts/
+staging_release/
+*.joblib
+venv/
+.pytest_cache/
