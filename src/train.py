@@ -2,3 +2,4 @@ from src.pipeline import run_training
 
 if __name__ == "__main__":
     run_training()
+import os
